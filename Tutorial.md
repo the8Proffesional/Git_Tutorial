@@ -12,6 +12,24 @@
 			<td><strong>Paremetres</strong></td>
 			<td><strong>Description</strong></td>
 		</tr>
+		<tr>
+			<td><strong>mkdir</strong></td>
+			<td><strong>____</strong></td>
+			<td><strong>[Directory_Name]</strong></td>
+			<td><strong>Create directory with specified name</strong></td>
+		</tr>
+		<tr>
+			<td><strong>touch</strong></td>
+			<td><strong>____</strong></td>
+			<td><strong>[file_name.ext]</strong></td>
+			<td><strong>Create file with specified name</strong></td>
+		</tr>
+		<tr>
+			<td><strong>ls</strong></td>
+			<td><strong>-a</strong></td>
+			<td><strong>____</strong></td>
+			<td><strong>Show the content of the current directory / -a : show hidden directory</strong></td>
+		</tr>
 	</tbody>
 
 </table>
