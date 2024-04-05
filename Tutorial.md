@@ -56,7 +56,7 @@
 		</tr>
 		<tr>
 			<td><strong>cat</strong></td>
-			<td><strong>;/lt / ;/lt;/lt</strong></td>
+			<td><strong>&gt / &gt&gt</strong></td>
 			<td><strong>[file_name.ext]</strong></td>
 			<td><strong>Show file content</strong></td>
 		</tr>	
