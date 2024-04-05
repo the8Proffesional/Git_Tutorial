@@ -28,7 +28,7 @@
 			<td><strong>ls</strong></td>
 			<td><strong>-a</strong></td>
 			<td><strong>____</strong></td>
-			<td><strong>Show the content of the current directory / -a : show hidden directory</strong></td>
+			<td><strong>Show the content of the current directory / -a : show hidden content</strong></td>
 		</tr>
 	</tbody>
 
